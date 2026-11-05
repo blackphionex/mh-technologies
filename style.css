@@ -26,3 +26,6 @@ a{color:inherit;text-decoration:none}.topbar{width:min(1080px,calc(100% - 32px))
 .founder-note strong{font-size:13px}.founder-note div span{font-size:11px;color:var(--muted)}
 .footer-founder{margin-top:-4px!important;font-size:10px!important;letter-spacing:.5px!important}
 @media(max-width:650px){.idea-lab{padding:36px 18px}.idea-button{width:100%}}
+
+.project-link { color: #f5c842; font-weight: 600; margin-left: 10px; font-size: 14px; }
+.project-link:hover { text-decoration: underline; }
