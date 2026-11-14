@@ -13,7 +13,7 @@ Website files:
 Featured projects:
 - SchoolAttend — attendance management system piloted for two weeks at Mark Youth Academy.
 - Mark Youth Academy — bilingual school website with announcements, photo gallery, and secure admin area.
-- MH Learning Hub — planned Ethiopian learning platform, beginning with KG 1 and Grade 1.
+- MH Learning Hub — planned Ethiopian learning platform, starting with KG 1 through Grade 1 (KG 1, KG 2, KG 3, and Grade 1).
 - MH Cinema — film discovery platform for trailers, reviews, and legally authorized viewing options.
 
 Important:
