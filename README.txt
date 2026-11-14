@@ -1,22 +1,22 @@
-SORANEX TECHNOLOGIES — Instagram link-in-bio landing page
+MH TECHNOLOGIES — Official website
 
-Preview:
-1. Extract this ZIP.
-2. Open a terminal in the extracted folder.
-3. Run: python3 -m http.server 8000
-4. Open http://127.0.0.1:8000
+Preview locally:
+1. Open a terminal in this folder.
+2. Run: python3 -m http.server 8000
+3. Open http://127.0.0.1:8000
 
-What's new:
-- Broader service cards for websites, AI-powered solutions, and software/automation.
-- Interactive Idea Lab so visitors can choose the kind of project they want to discuss.
-- Founder attribution: Founded by Yeabsira Getachew.
-- Maintains responsive dark/gold/red/silver styling.
+Website files:
+- index.html — page structure and project information
+- style.css — responsive dark, gold, red, and silver design
+- script.js — interactive Idea Lab
 
-Before publishing:
-- Replace YOUR_EMAIL@example.com with your real email.
-- Replace YOUR_INSTAGRAM and YOUR_TELEGRAM with your actual usernames.
-- Review all project descriptions and links for accuracy.
+Featured projects:
+- SchoolAttend — attendance management system piloted for two weeks at Mark Youth Academy.
+- Mark Youth Academy — bilingual school website with announcements, photo gallery, and secure admin area.
+- MH Learning Hub — planned Ethiopian learning platform, beginning with KG 1 and Grade 1.
+- MH Cinema — film discovery platform for trailers, reviews, and legally authorized viewing options.
 
 Important:
-This is a static website and must be hosted publicly before adding it to Instagram's profile links.
-The Idea Lab is a front-end demo; it does not send messages or use an AI model yet.
+- Review project details and links before making further public claims.
+- The Idea Lab is a front-end feature that prepares email and Telegram links; it does not send messages automatically or connect to an AI model.
+- MH Cinema must only link to or distribute content that MH Technologies is authorized to use.
