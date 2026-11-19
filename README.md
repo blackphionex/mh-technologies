@@ -49,6 +49,7 @@ Have a project idea, collaboration proposal, or question?
 
 - **Email:** www.yabu154@gmail.com
 - **GitHub:** https://github.com/blackphionex
+- **LinkedIn:** https://www.linkedin.com/in/yeabsira-getachew
 - **Instagram:** https://instagram.com/yeabs_ragetachew
 - **Telegram:** https://t.me/yabavpn
 
