@@ -2,57 +2,61 @@
 
 **Technology Without Borders.**
 
-MH Technologies is an independent technology initiative founded by **Yeabsira Getachew**, focused on turning practical ideas into useful digital solutions. The work currently centers on web development, education technology, and software tools for schools and small organizations.
+MH Technologies is an independent technology initiative founded by **Yeabsira Getachew**. It focuses on practical software, web development and education technology, with an emphasis on useful digital tools for schools and small organizations.
 
-🌐 **Live website:** https://blackphionex.github.io/mh-technologies/  
+🌐 **Website:** https://blackphionex.github.io/mh-technologies/  
 💻 **GitHub:** https://github.com/blackphionex
 
-## What we work on
+## Focus areas
 
-- **Websites and digital experiences** — responsive websites and landing pages.
-- **Education technology** — accessible learning tools and digital resources for Ethiopian learners.
-- **Software and automation** — practical systems that help schools and organizations organize everyday work.
-- **AI-assisted tools** — exploring useful AI features and workflows for real-world needs.
+- **Web development** — responsive websites and clear digital experiences.
+- **Education technology** — learning resources and tools designed around education needs in Ethiopia.
+- **School software** — practical systems for attendance, examinations and everyday administration.
+- **Software experimentation** — exploring useful automation and AI-assisted workflows.
 
 ## Selected projects
 
-| Project | Description | Status |
+| Project | Overview | Current stage |
 |---|---|---|
-| **SchoolAttend** | A Flask-based attendance system designed to help schools manage staff attendance digitally. | Pilot / evaluation |
-| **Mark Youth Academy website** | A bilingual school website project with school information and administration features. | Published |
-| **MH Learning Hub** | An education platform concept for Ethiopian learners, beginning with foundational grades and core school subjects. | In development |
-| **MH Cinema** | A film-discovery concept focused on film information and links to legally authorized viewing options. | In development |
+| **SchoolAttend** | A Python/Flask staff-attendance application designed for a school environment. | Pilot and evaluation |
+| **Mark Youth Academy website** | A school website project with bilingual content and administration features. | Published |
+| **MH Exam Hub** | An online examination and assessment platform built with Flask and SQLite. | Development and testing |
+| **MH Learning Hub** | An education-platform initiative for Ethiopian learners, beginning with foundational grades and core subjects. | Planning and development |
+| **Chest X-ray research reconstruction** | Jupyter notebooks reconstructing deep-learning methods described in graduation research reports. | Research archive |
 
-Project status may change as development and testing continue. The descriptions above distinguish published work from projects that are still being developed or evaluated.
+Project stages are stated honestly: a published website, a pilot system and a development project are not the same as a fully production-validated product.
 
-## Technology
+## Technologies
 
-The public MH Technologies website is built with:
+Technologies used across the work include:
 
-- HTML
-- CSS
-- JavaScript
-- Git and GitHub Pages for version control and publishing
+- Python
+- Flask
+- SQLite
+- HTML, CSS and JavaScript
+- Git and GitHub
+- Jupyter Notebook and deep-learning libraries in the research notebooks
 
-Other projects use technologies appropriate to their needs, including Python and Flask for SchoolAttend.
+The public MH Technologies website is published with GitHub Pages.
 
-## Our approach
+## How I approach projects
 
-1. Understand the problem and the people experiencing it.
-2. Plan a small, practical first version.
-3. Build, test, and improve based on feedback.
-4. Keep solutions understandable, useful, and accessible.
+1. Understand the real problem and intended users.
+2. Define a manageable first version.
+3. Build with maintainability and usability in mind.
+4. Test, collect feedback and improve.
+5. Document setup, limitations and future work.
 
-## Get in touch
+## About the founder
 
-Have a project idea, collaboration proposal, or question?
+I'm **Yeabsira Getachew**, a materials science and engineering graduate with an interest in Python development, web applications and education technology. I enjoy building practical software that addresses everyday problems.
+
+## Contact
 
 - **Email:** www.yabu154@gmail.com
 - **GitHub:** https://github.com/blackphionex
 - **LinkedIn:** https://www.linkedin.com/in/yeabsira-getachew
-- **Instagram:** https://instagram.com/yeabs_ragetachew
-- **Telegram:** https://t.me/yabavpn
+- **Website:** https://blackphionex.github.io/mh-technologies/
 
 ---
-
-*MH Technologies — Independent thinking. Practical innovation.*
+**MH Technologies — Independent thinking. Practical innovation.**
